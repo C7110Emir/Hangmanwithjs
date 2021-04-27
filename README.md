@@ -1,2 +1,2 @@
 # Hangmanwithjs
-hangmen with js
+hangman with js
